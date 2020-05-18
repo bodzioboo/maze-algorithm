@@ -58,4 +58,4 @@ finding the Manhattan distance was the best local approximation of the optimal r
 to the target.
 
 
--**findRouteDepth** - this method finds the path between two points in the Maze. To do it, it uses the common depth-first search algorithm to find a point in the maze tree. It keeps track of the current path used by the algorithm, and as soon as the algorithm reaches destination, it returns the right path.
+- **findRouteDepth** - this method finds the path between two points in the Maze. To do it, it uses the common depth-first search algorithm to find a point in the maze tree. It keeps track of the current path used by the algorithm, and as soon as the algorithm reaches destination, it returns the right path.
